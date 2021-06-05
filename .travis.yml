@@ -1,6 +1,6 @@
 language: python
 python:
-- 3.8.10
+- 3.7
 sudo: required
 install:
 - pip install flask
